@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center"> Key Sound Binder
+<p align="center"> Plays a specific sound based on keyboard input
      <br>  
 </p>
 
