@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center"> <strong>S</strong>hiüo's <strong>I</strong>mage <strong>E</strong>ffect <strong>T</strong>oolset
+<p align="center"> Key Sound Binder
      <br>  
 </p>
 
